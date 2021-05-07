@@ -1,0 +1,22 @@
+{
+    "name": "snikonov/hw3",
+    "description": "Домашнее задание на тему 'Основы PHP. Консольный PHP'",
+    "authors": [
+        {
+            "name": "Sergey Nikonov",
+            "email": "nikonovergey@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "snikonov\\hw3\\": "src/"
+        }
+    }
+}
